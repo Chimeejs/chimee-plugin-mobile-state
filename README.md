@@ -1,5 +1,7 @@
 # chimee-plugin-mobile-state
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Chimeejs/chimee-plugin-mobile-state.svg)](https://greenkeeper.io/)
+
 ## install
 
 安装
